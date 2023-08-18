@@ -26,4 +26,4 @@ WHEN I view the title element
 
 ## Application Link:
 
-[index.html]([Develop/index.html](https://Grandpapo.github.io/repository-name/)https://Grandpapo.github.io/Mosule-1-Challenge-Marcos-Wang/)
+[index.html]([Develop/index.html](https://Grandpapo.github.io/Module-1-Challenge-Marcos-Wang/)
