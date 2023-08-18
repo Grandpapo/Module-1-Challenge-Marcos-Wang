@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor Starter Code - Marcos Wang
 
 ## User Story:
 
