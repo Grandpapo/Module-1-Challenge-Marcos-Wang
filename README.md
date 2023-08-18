@@ -22,7 +22,7 @@ WHEN I view the title element
 
 ## Mock Up:
 
-![Mockup](./Images/Mockup.png)
+![Mockup](./Deve;o[/assets/images/Mockup.png)
 
 ## Application Link:
 
